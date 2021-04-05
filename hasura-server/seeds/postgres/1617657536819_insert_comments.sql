@@ -1,0 +1,3 @@
+INSERT INTO public.comments (id, comment, photo_id, created_at) VALUES ('23701190-3c57-41aa-a90b-79066ce0a873', 'Cute dog!', '968bdcab-e50c-49a8-8a7d-85729d882222', '2021-04-02 22:29:03.810681+00');
+INSERT INTO public.comments (id, comment, photo_id, created_at) VALUES ('4fa70e67-0756-4732-8d3c-305970a619a1', 'What a dog!', '968bdcab-e50c-49a8-8a7d-85729d882222', '2021-04-02 22:30:03.999869+00');
+INSERT INTO public.comments (id, comment, photo_id, created_at) VALUES ('c7fcbbee-4dce-4871-94bc-a2196bd53d5a', 'This is a cool photo!', '648e1f99-0e43-4502-a0e4-f55a29431423', '2021-04-03 15:00:39.35891+00');
