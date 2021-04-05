@@ -1,1 +1,8 @@
-[]
+- name: postgres
+  kind: postgres
+  configuration:
+    connection_info:
+      database_url: postgres://postgres:postgrespassword@postgres:5432/postgres
+      pool_settings: {}
+  tables: "!include postgres/tables/tables.yaml"
+  functions: "!include postgres/functions/functions.yaml"
