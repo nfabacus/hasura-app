@@ -1,3 +1,8 @@
 - "!include public_address.yaml"
 - "!include public_comments.yaml"
+- "!include public_groups.yaml"
 - "!include public_photos.yaml"
+- "!include public_roles.yaml"
+- "!include public_users.yaml"
+- "!include public_users_groups.yaml"
+- "!include public_users_roles.yaml"
